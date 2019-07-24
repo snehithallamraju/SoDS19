@@ -18,7 +18,7 @@ I have been trying to set specific Achievable goals for myself to continue my Da
    -  Attending the [Tableau Conference 2019](https://tc19.tableau.com/) at Las Vegas, United states in November 2019
 - [ ] Participate in a predictive hackathon
 - [ ] Participate in bootcamps related to data, Visualization, Story telling
-   - 15-JUN-19 : Participated in Gramener's Datastorytelling Bootcamp in Hyderabad
+   - Participated in [Gramener's Datastorytelling June Bootcamp](https://gramener.com/hackathon/) in Hyderabad. [Tableau Viz](https://public.tableau.com/profile/snehith.allamraju#!/vizhome/DelhiBusTransitAnalysis/DelhiBusTransitAnalysis)
 - [ ] Write atleast one blog a month around a topic
 - [ ] Publish atleast one Tableau Viz per fortnight
 - [ ] Look out for speaker opportunities and give atleast 3 training/sessions around data topics
