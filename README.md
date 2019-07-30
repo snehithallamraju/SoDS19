@@ -14,7 +14,7 @@ I have been trying to set specific Achievable goals for myself to continue my Da
 - [ ] Get Certified in Azure Machine learning/ Big data Engineering
    -  [Exam DP-100: Designing and Implementing a Data Science Solution on Azure](https://www.microsoft.com/en-us/learning/exam-dp-100.aspx)
 - [ ] Attend a conferences related to Data/ML
-   -  Attending the [Metis Demystifying Data Science ](https://www.thisismetis.com/demystifying-data-science) #DemystifyDS 2019 Online on July 30th and 31st 2019
+   -  Attending the [Metis Demystifying Data Science ](https://www.thisismetis.com/demystifying-data-science) [#DemystifyDS](https://twitter.com/hashtag/demystifyds) 2019 Online on July 30th and 31st 2019
    -  Attending the [Open Data Science Conference](https://india.odsc.com/) on 8th and 9th of August in Bengaluru, India
    -  Attending the [Tableau Conference 2019](https://tc19.tableau.com/) at Las Vegas, United states in November 2019
 - [ ] Participate in a predictive hackathon
