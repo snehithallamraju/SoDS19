@@ -24,4 +24,4 @@ I have been trying to set specific Achievable goals for myself to continue my Da
 - [x] Look out for speaker opportunities and give atleast 3 training/sessions around data topics
    - Presented at the Hyderabad Tableau user group April 2019 meetup on "How to get #CertifiablyTableau" [Link](https://community.tableau.com/docs/DOC-22991?ru=127813&sr=stream)
    - Presented at the Hyderabad Tableau user group May 2019 meetup on "Getting Started with Tableau Prep Builder"[Link](https://community.tableau.com/docs/DOC-22820?ru=127813&sr=stream)
-   - Presented at Tableau's #Vizconnect Webinar series on Preppin' your data with Tableau prep [Video link] (https://youtu.be/br2btzWjgDo?t=1639)
+   - Presented at Tableau's #Vizconnect Webinar series on Preppin' your data with Tableau prep [Video link](https://youtu.be/br2btzWjgDo?t=1639)
